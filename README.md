@@ -1,4 +1,7 @@
-# api documentation for  [generator-angulpify (v0.1.2)](https://github.com/jgoux/generator-angulpify)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angulpify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angulpify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angulpify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angulpify)
+# npmdoc-generator-angulpify
+
+#### basic api documentation for  [generator-angulpify (v0.1.2)](https://github.com/jgoux/generator-angulpify)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-angulpify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-angulpify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-angulpify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-angulpify)
+
 #### Yeoman generator involving AngularJS, Gulp and Browserify
 
 [![NPM](https://nodei.co/npm/generator-angulpify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-angulpify)
@@ -70,7 +73,8 @@
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "0.1.2"
+    "version": "0.1.2",
+    "bin": {}
 }
 ```
 
